@@ -1,4 +1,4 @@
-# update-server.config-using-python-file-operator
+# update-server.conf-using-python-file-operator
 
 This is a task to demonstrate "file operator" capability in Python from DevOps perspective.
 
